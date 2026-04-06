@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Edit",
+      "Write"
+    ],
+    "deny": []
+  },
+  "rules": [
+    "vault-conventions",
+    "note-style",
+    "organization"
+  ]
+}

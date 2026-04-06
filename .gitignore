@@ -1,0 +1,14 @@
+# Obsidian app configuration
+.obsidian/
+
+# Personal Claude Code overrides
+CLAUDE.local.md
+.claude/settings.local.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
