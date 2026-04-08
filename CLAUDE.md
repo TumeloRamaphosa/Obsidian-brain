@@ -87,6 +87,8 @@ Obsidian-brain/
     │   ├── note-style.md              # Writing tone and format
     │   └── organization.md            # Folder placement, business hierarchy
     ├── skills/                        # Auto-invoked workflows
+    │   ├── rag/SKILL.md               # RAG — search, rank, generate from vault
+    │   ├── second-brain/SKILL.md      # Master skill — knowledge lifecycle
     │   ├── chat-processor/SKILL.md    # Process chat exports → vault notes
     │   ├── business-analyzer/SKILL.md # Deep business analysis
     │   └── daily-digest/SKILL.md      # End-of-day summary
